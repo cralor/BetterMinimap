@@ -1,0 +1,7 @@
+## Interface: 11403
+## Title: BetterMinimap
+## Author: cralor
+## Version: 0.1
+## Notes: Blizz-like square minimap with a clean look
+
+BetterMinimap.lua
